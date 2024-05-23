@@ -61,6 +61,10 @@ div#task-list div.task-group {
     height: 5vh;
 }
 
+div.task-group.red {
+    background-color: #911;
+}
+
 div#task-list div.task-group:hover {
     cursor: pointer;
 }
